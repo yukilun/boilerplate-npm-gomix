@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "~2.10.2"
+		"moment": "^2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -14,7 +14,11 @@
 	},
 	"author": "Yuki",
 	"description": "Something interesting! :)",
-	"keywords": ["Backend", "freecodecamp", "NodeJS"],
+	"keywords": [
+		"Backend",
+		"freecodecamp",
+		"NodeJS"
+	],
 	"license": "MIT",
 	"version": "1.0.0"
 }
