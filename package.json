@@ -14,5 +14,6 @@
 	"author": "Yuki",
 	"description": "Something interesting! :)",
 	"keywords": ["Backend", "freecodecamp", "NodeJS"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.0.0"
 }
