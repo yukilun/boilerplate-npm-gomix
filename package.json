@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Yuki",
-	"description": "Something interesting! :)"
+	"description": "Something interesting! :)",
+	"keywords": ["Backend", "Learning", "NodeJS"]
 }
